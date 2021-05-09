@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Cookiesjuice's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookiesjuice&show_icons=true&theme=radical)
+
+![Cookiesjuice's Language](https://github-readme-stats.vercel.app/api/top-langs/?username=cookiesjuice&theme=radical&layout=compact)
